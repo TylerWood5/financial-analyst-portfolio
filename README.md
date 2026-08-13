@@ -27,5 +27,5 @@ Finance professional in transition, bringing a BBA in Finance and hands-on analy
 
 ## Contact
 
-- LinkedIn: linkedin.com/in/tylertwood
+- LinkedIn: https://linkedin.com/in/tylertwood
 - Email: Tywood86@yahoo.com
