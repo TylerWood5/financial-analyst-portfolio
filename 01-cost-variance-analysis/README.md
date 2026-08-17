@@ -1,22 +1,38 @@
-Silver Sands Resort & Casino Cost Variance Analysis
-Business Problem
+# Silver Sands Resort & Casino Cost Variance Analysis
 
-Management needed visibility into budgeted versus actual spending across resort departments to identify cost overruns and support financial reporting.
+## Business Problem
 
-Solution
+Management needed visibility into budgeted versus actual spending across resort departments in order to identify cost overruns, monitor financial performance, and support monthly reporting.
 
-Built a cost variance analysis model using budget and transaction-level accounting data. Created variance calculations, PivotTable summaries, and dashboard reporting to highlight departmental spending trends and budget performance.
+## Solution
 
-Skills Demonstrated
-Excel Tables
-XLOOKUP
-SUMIFS
-Pivot Tables
-Pivot Charts
-Variance Analysis
-Dashboard Development
-Financial Reporting
-Files
-Cost Variance Analysis Workbook
-Executive Summary Dashboard
-Pivot Table Reporting
+Built a cost variance analysis model using budget and transaction-level accounting data. Combined multiple data sources, created variance calculations, and developed PivotTable-based reporting with dashboard visualizations to highlight spending trends and budget performance.
+
+## Skills Demonstrated
+
+- Excel Tables
+- XLOOKUP
+- SUMIFS
+- Pivot Tables
+- Pivot Charts
+- Variance Analysis
+- Dashboard Development
+- Financial Reporting
+
+## Dashboard Screenshot
+
+cost_analysis_dashboard.png
+
+## Executive Summary
+
+cost_analysis_executive_summary.png
+
+## Files Included
+
+- Silver_Sands_Cost_Variance_Analysis_2025.xlsx
+- cost_analysis_dashboard.png
+- cost_analysis_executive_summary.png
+
+## Key Takeaways
+
+This project demonstrates the ability to combine source data, perform variance analysis, build management reporting, and present results through dashboards and PivotTables.
